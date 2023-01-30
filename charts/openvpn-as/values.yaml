@@ -8,7 +8,7 @@ openvpn:
   timezone: Europe/London
   ports:
     # -- Admin GUI port
-    admin: 943
+    admin: 9943
     # -- Client GUI port
     gui: 944
     # -- VPN TCP port
